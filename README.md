@@ -38,13 +38,12 @@ The project is organized into several sections, each with specific examples and 
 
 
 
-### Description (with Emoji)
+### Description 
 
 "📚 Learn how to integrate Redux Toolkit with Next.js 🚀. This educational project demonstrates best practices in state management, server-side rendering, and asynchronous actions using Redux and Next.js 🌐."
 
 ---
 
-این README شامل تمام جزئیات لازم برای توضیح پروژه و راهنمایی کاربران است. اگر نیاز به تغییر یا افزودن جزئیات خاصی دارید، لطفاً به من اطلاع دهید
 
 
 ### Setup
